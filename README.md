@@ -30,7 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenges I had while developing this application was downloading and orienting myself with Android Studio and the Emulator. Other challenges arose when connecting and commiting to GitHub via the command prompt.
 
 ## License
 
